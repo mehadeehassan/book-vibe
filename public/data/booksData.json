@@ -1,0 +1,322 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co.com/khHN7Pk/9780143454212.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 192,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Fiction",
+      "Romance"
+    ],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Drama",
+      "Social Justice"
+    ],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Political"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Young Adult",
+      "Identity"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": "Classic",
+    "tags": [
+      "Romance",
+      "Satire"
+    ],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Epic"
+    ],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 7,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 309,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Young Adult"
+    ],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 177,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Philosophical",
+      "Adventure"
+    ],
+    "publisher": "HarperCollins",
+    "yearOfPublishing": 1988
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "review": "'The Great Gatsby' by F. Scott Fitzgerald is a timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love. Narrated by Nick Carraway, the story explores themes of wealth, love, and the American Dream, drawing readers into a vivid portrayal of the glittering yet elusive world of the East and West Egg. Fitzgerald's prose is both poetic and haunting, weaving a compelling narrative that transcends its era. A poignant exploration of societal excess and the human condition, 'The Great Gatsby' remains a literary gem that resonates across generations.",
+    "totalPages": 316,
+    "rating": 4.2,
+    "category": "Mystery",
+    "tags": [
+      "Suspense",
+      "Psychological"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 10,
+    "bookName": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://covers.openlibrary.org/b/isbn/9780618640157-L.jpg",
+    "review": "A sweeping epic that follows Frodo Baggins and the Fellowship as they journey to destroy the One Ring. Tolkien builds a richly detailed world of languages, histories, and cultures, and balances grand battles with quiet moments of friendship and sacrifice. It set the template for modern fantasy and still feels fresh today.",
+    "totalPages": 1178,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Epic"
+    ],
+    "publisher": "Houghton Mifflin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 11,
+    "bookName": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg",
+    "review": "Huxley imagines a future where people are engineered, conditioned, and kept content with pleasure and technology. Through Bernard Marx and the outsider John the Savage, the novel questions whether happiness is worth the loss of freedom, art, and deep human connection. Its warnings about consumerism and control feel more relevant with every decade.",
+    "totalPages": 288,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "publisher": "Chatto & Windus",
+    "yearOfPublishing": 1932
+  },
+  {
+    "bookId": 12,
+    "bookName": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "image": "https://covers.openlibrary.org/b/isbn/9781451673319-L.jpg",
+    "review": "In a society where books are banned and burned, fireman Guy Montag begins to question his job and the empty world around him. Bradbury writes a fast, poetic warning about censorship, distraction, and the danger of a public that stops thinking for itself. A short read that leaves a long shadow.",
+    "totalPages": 249,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Censorship"
+    ],
+    "publisher": "Ballantine Books",
+    "yearOfPublishing": 1953
+  },
+  {
+    "bookId": 13,
+    "bookName": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "image": "https://covers.openlibrary.org/b/isbn/9780141441146-L.jpg",
+    "review": "Orphaned and mistreated, Jane grows into an independent young woman who takes a post as governess at Thornfield Hall. Her bond with the brooding Mr. Rochester and the secrets hidden in the house drive a story about self-respect, morality, and love on equal terms. It remains a landmark of Gothic romance.",
+    "totalPages": 532,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Romance",
+      "Gothic"
+    ],
+    "publisher": "Smith, Elder & Co.",
+    "yearOfPublishing": 1847
+  },
+  {
+    "bookId": 14,
+    "bookName": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "image": "https://covers.openlibrary.org/b/isbn/9781594631931-L.jpg",
+    "review": "Amir looks back on his childhood in Kabul and the friendship with Hassan that he betrayed, and the guilt that follows him for decades. Set against the fall of Afghanistan's monarchy and the rise of the Taliban, the novel is a moving story of regret, redemption, and the bonds between fathers and sons.",
+    "totalPages": 371,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Drama",
+      "Historical"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 15,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg",
+    "review": "Symbologist Robert Langdon is pulled into a murder at the Louvre and a chase across Europe to uncover a secret hidden in art and history. Short chapters, cliffhangers, and puzzle after puzzle make it a page-turner, even if the historical claims are best taken as fiction.",
+    "totalPages": 597,
+    "rating": 4.0,
+    "category": "Mystery",
+    "tags": [
+      "Thriller",
+      "Conspiracy"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 16,
+    "bookName": "Gone Girl",
+    "author": "Gillian Flynn",
+    "image": "https://covers.openlibrary.org/b/isbn/9780307588371-L.jpg",
+    "review": "On their fifth anniversary, Amy Dunne disappears, and her husband Nick becomes the prime suspect. Told through alternating voices, the story keeps flipping what the reader believes about the marriage, the media, and who is telling the truth. A dark and twisty psychological thriller.",
+    "totalPages": 415,
+    "rating": 4.1,
+    "category": "Mystery",
+    "tags": [
+      "Thriller",
+      "Psychological"
+    ],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 17,
+    "bookName": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "image": "https://covers.openlibrary.org/b/isbn/9780439023528-L.jpg",
+    "review": "In the nation of Panem, teenagers are forced to fight to the death on live television. Katniss Everdeen volunteers to take her sister's place and must survive both the arena and the politics behind it. Fast, tense, and thoughtful about inequality and media spectacle.",
+    "totalPages": 374,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "publisher": "Scholastic Press",
+    "yearOfPublishing": 2008
+  },
+  {
+    "bookId": 18,
+    "bookName": "Dune",
+    "author": "Frank Herbert",
+    "image": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+    "review": "Young Paul Atreides moves with his family to the desert planet Arrakis, the only source of the most valuable substance in the universe. A story of politics, religion, ecology, and destiny, it is often called the greatest science fiction novel for its depth and world-building.",
+    "totalPages": 412,
+    "rating": 4.7,
+    "category": "Science Fiction",
+    "tags": [
+      "Epic",
+      "Adventure"
+    ],
+    "publisher": "Chilton Books",
+    "yearOfPublishing": 1965
+  },
+  {
+    "bookId": 19,
+    "bookName": "The Book Thief",
+    "author": "Markus Zusak",
+    "image": "https://covers.openlibrary.org/b/isbn/9780375842207-L.jpg",
+    "review": "Narrated by Death, this novel follows Liesel, a young girl in Nazi Germany who steals books and shares them with her foster family and the Jewish man hidden in their basement. It is a tender, poetic story about the power of words in the darkest of times.",
+    "totalPages": 552,
+    "rating": 4.7,
+    "category": "Historical Fiction",
+    "tags": [
+      "Drama",
+      "War"
+    ],
+    "publisher": "Picador",
+    "yearOfPublishing": 2005
+  },
+  {
+    "bookId": 20,
+    "bookName": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "image": "https://covers.openlibrary.org/b/isbn/9780064471046-L.jpg",
+    "review": "Four siblings step through a wardrobe into Narnia, a land trapped in eternal winter by the White Witch. With talking animals, a great lion named Aslan, and a battle between good and evil, this is a warm and imaginative fantasy that readers of all ages enjoy.",
+    "totalPages": 208,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Children"
+    ],
+    "publisher": "Geoffrey Bles",
+    "yearOfPublishing": 1950
+  }
+]
