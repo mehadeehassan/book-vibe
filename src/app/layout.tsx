@@ -1,4 +1,4 @@
-import NavbarPage from '@/components/navbar/navbar';
+
 import type { Metadata } from 'next';
 import { Geist_Mono } from 'next/font/google';
 import './globals.css';
@@ -7,6 +7,7 @@ import { Work_Sans } from 'next/font/google';
 import FooterPage from '@/components/footer/page';
 import { ToastContainer } from 'react-toastify';
 import BooksProvider from '@/context/booksContext';
+import NavbarPage from '@/components/Navigation/navbar';
 
 const workSans = Work_Sans({
   variable: '--font-work-sans',
@@ -35,7 +36,10 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
         <NavbarPage />
         <div>{children}</div>
         <FooterPage />
-        <ToastContainer/>
+        <ToastContainer
+            position="bottom-right"
+            progressClassName="!bg-green-400"
+          />
         </BooksProvider>
       </body>
     </html>
